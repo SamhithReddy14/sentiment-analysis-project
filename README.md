@@ -3,7 +3,7 @@
 This project analyzes IMDB movie reviews and predicts whether a review is **Positive** or **Negative** using Machine Learning and Natural Language Processing (NLP).
 
 It includes:
-hi
+
 ✔ Logistic Regression model  
 ✔ TF-IDF text vectorization  
 ✔ Streamlit dashboard for real-time prediction  
